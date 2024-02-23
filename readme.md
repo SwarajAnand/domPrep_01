@@ -1,6 +1,7 @@
 # DOM Manipulation Learning
 
-Brief description of the project.
+This is the mini project to show the power of DOM Manipulation how it can change the Html Dom and elements
+To view this simply clone this
 
 ## Installation
 
